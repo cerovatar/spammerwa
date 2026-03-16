@@ -55,7 +55,7 @@ def main():
         return
     
     # 2. Cek keberadaan script Node.js
-    node_script = "wa-spam-free.js"
+    node_script = "spamwa.js"
     if not os.path.exists(node_script):
         print(f"{RED}✗ File '{node_script}' tidak ditemukan!{RESET}")
         print(f"{YELLOW}Pastikan file tersebut ada di folder yang sama dengan script ini.{RESET}")
