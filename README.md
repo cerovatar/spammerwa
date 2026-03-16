@@ -10,8 +10,8 @@ pkg install nodejs -y
 2. Setup Project
 bash
 # Buat folder baru
-mkdir wa-spammer
-cd wa-spammer
+mkdir spammerwa
+cd spammerwa
 
 # Inisialisasi project
 npm init -y
@@ -23,7 +23,7 @@ Buat file wa-spam-free.js dan paste kode di atas.
 
 4. Jalankan
 bash
-node wa-spam-free.js
+node spamwa.js
 
 📝 Penjelasan Kode
 Bagian	Fungsi
